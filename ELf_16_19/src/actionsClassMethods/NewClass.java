@@ -1,5 +1,5 @@
 package actionsClassMethods;
 
-public class Newgit {
+public class NewClass {
 
 }
