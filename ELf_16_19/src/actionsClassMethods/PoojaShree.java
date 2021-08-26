@@ -13,6 +13,6 @@ public class PoojaShree {
 	WebDriver driver = new ChromeDriver();
 	driver.manage().window().maximize();
 	driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-	driver.get("https://instagram.com");
+	driver.get("https://facebook.com");
 	}
 }
